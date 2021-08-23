@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dinesh-rahul
 - 👀 I’m interested in interior designing and drafting    
-- 🌱 I’m currently learning intrior designing 
-- 💞️ I’m looking to collaborate with web designers for architect firm
+- 🌱 I’m currently learning interior designing and trying to understand github
 - 📫 How to reach me rahuldinesh666@gmail.com
 
 <!---
